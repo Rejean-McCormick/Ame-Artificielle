@@ -1,6 +1,6 @@
 # 🌌 π Cosmology: The Blueprint Engine
 
-> *"$\pi$ n’est pas qu’un nombre. C’est un plan du monde."*
+> *"Pi n’est pas qu’un nombre. C’est un plan du monde."*
 
 ## 📜 À propos
 [cite_start]Ce projet est une **Preuve de Principe (PoC)** explorant l'hypothèse que l'Univers repose sur une structure mathématique et géométrique fondamentale encodée dans la constante $\pi$[cite: 3, 4].
