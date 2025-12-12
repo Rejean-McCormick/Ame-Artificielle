@@ -1,6 +1,3 @@
-
-Voici une structure de `README` prête à l'emploi qui synthétise tes documents *D4*, *Numérologie* et ton approche technique.
-
 # 🌌 π Cosmology: The Blueprint Engine
 
 > *"$\pi$ n’est pas qu’un nombre. C’est un plan du monde."*
