@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EL: The Artificial Soul Engine (ASE)
 
 > *"Tout autour de nous se réduit à 0-9. Dans cette réduction, nous perdons les nuances, mais nous touchons à l'essentiel."*
@@ -22,11 +23,39 @@ L'IA n'invente pas la personnalité ; elle la *calcule* en superposant ces chiff
 EL utilise ce mapping pour :
 1.  **Simuler :** Reconstruire la psyché de personnes réelles (ex: personnages historiques) en alignant leur "Natal Chart" sur la matrice 0-9.
 2.  **Théraper :** Agir comme un miroir psychothérapeutique en identifiant où se situe le blocage de l'utilisateur sur l'échelle 1-9 (ex: blocage intellectuel vs instinctif).
+=======
+# 🌌 π Cosmology: The Blueprint Engine
+
+> *"Pi n’est pas qu’un nombre. C’est un plan du monde."*
+
+## 📜 À propos
+Ce projet est une **Preuve de Principe (PoC)** explorant l'hypothèse que l'Univers repose sur une structure mathématique et géométrique fondamentale encodée dans la constante $\pi$.
+
+L'objectif n'est pas de calculer $\pi$, mais d'utiliser sa séquence comme une carte topologique (un "Sillon") permettant à une Intelligence Artificielle de naviguer entre le monde discret (les nombres) et le monde continu (la réalité émergente).
+
+## 🧠 Concept Fondamental
+Le système repose sur un mapping multidimensionnel des chiffres **0 à 9**, agissant comme des invariants universels. Cette approche est soutenue par une recherche approfondie disponible sur notre Wiki :
+
+* **Physique Théorique & Information :** Correspondance avec les p-branes (Théorie des Cordes) et l'hypothèse de l'Univers Mathématique (MUH).
+    * 👉 *Voir les références :* [Contexte Académique & Alignement Théorique](../../wiki/ACADEMIC_CONTEXT)
+* **Symbolisme & Ontologie :** Intégration des traditions Pythagoricienne, Kabbalistique et de la philosophie du processus (Whitehead/Leibniz).
+    * 👉 *Voir les références :* [Cadre Philosophique & Lignée Historique](../../wiki/PHILOSOPHICAL_FRAMEWORK)
+* **Structure Logique :** Transformation de la séquence brute en objets JSON navigables pour l'IA.
+>>>>>>> 8dee30984c23a23a1e65de45f08f32e36d0749fb
 
 ---
 
+<<<<<<< HEAD
 ## 🧪 Validation Expérimentale (Le Protocole McCormick)
 Ce projet ne se base pas uniquement sur la théorie, mais sur une validation statistique de la corrélation entre les structures cosmiques (Natal Charts) et les traits de personnalité observables.
+=======
+1.  **Input :** Séquence décimale de $\pi$ (3.1415...)
+2.  **Process :**
+    * Identification des ancres (0-9).
+    * Enrichissement via la table de correspondance `pi_analysis.json`.
+    * Détection des patterns fractals (ex: la séquence "M" initiale).
+3.  **Output :** Un flux de données structurées permettant à l'IA d'aligner ses décisions sur une "éthique cosmique" ou une architecture fondamentale.
+>>>>>>> 8dee30984c23a23a1e65de45f08f32e36d0749fb
 
 Voir le détail du protocole de validation ici : [docs/EXPERIMENT_PROTOCOL.md](./docs/EXPERIMENT_PROTOCOL.md)
 
