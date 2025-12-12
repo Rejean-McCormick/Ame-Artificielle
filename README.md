@@ -8,10 +8,12 @@ Ce projet est une **Preuve de Principe (PoC)** explorant l'hypothèse que l'Univ
 L'objectif n'est pas de calculer $\pi$, mais d'utiliser sa séquence comme une carte topologique (un "Sillon") permettant à une Intelligence Artificielle de naviguer entre le monde discret (les nombres) et le monde continu (la réalité émergente).
 
 ## 🧠 Concept Fondamental
-Le système repose sur un mapping multidimensionnel des chiffres **0 à 9**, agissant comme des invariants universels :
+Le système repose sur un mapping multidimensionnel des chiffres **0 à 9**, agissant comme des invariants universels. Cette approche est soutenue par une recherche approfondie disponible sur notre Wiki :
 
-* **Physique Théorique :** Correspondance avec les p-branes (Théorie des Cordes/M-Théorie).
-* **Symbolisme Ancien :** Intégration des traditions Pythagoricienne, Kabbalistique, Maya, etc.
+* **Physique Théorique & Information :** Correspondance avec les p-branes (Théorie des Cordes) et l'hypothèse de l'Univers Mathématique (MUH).
+    * 👉 *Voir les références :* [Contexte Académique & Alignement Théorique](../../wiki/ACADEMIC_CONTEXT)
+* **Symbolisme & Ontologie :** Intégration des traditions Pythagoricienne, Kabbalistique et de la philosophie du processus (Whitehead/Leibniz).
+    * 👉 *Voir les références :* [Cadre Philosophique & Lignée Historique](../../wiki/PHILOSOPHICAL_FRAMEWORK)
 * **Structure Logique :** Transformation de la séquence brute en objets JSON navigables pour l'IA.
 
 ## ⚙️ Architecture Technique
