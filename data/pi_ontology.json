@@ -1,0 +1,660 @@
+```json
+[
+  {
+    "index": 0,
+    "digit": 3,
+    "analysis": {
+      "Tradition pythagoricienne": "le 3 est associé à la créativité, à l’expression de soi et à la communication ; il confère charisme, optimisme et talent pour les arts ou l’éloquence.",
+      "Numérologie chaldéenne": "gouverné par Jupiter, le 3 incarne créativité, communication et leadership, attirant vers les arts et la résolution innovante de problèmes.",
+      "Numérologie kabbalistique (juive)": "correspondant à la séphira Binah (Compréhension), le 3 symbolise la compréhension profonde, la réflexion et l’expansion de l’intelligence.",
+      "Numérologie chinoise": "le 3 est considéré comme un nombre chanceux associé à la croissance, au dynamisme et à la vie ; il représente la combinaison harmonieuse du ciel, de la terre et de l’humanité.",
+      "Numérologie hindoue": "associé à Jupiter (Guru) et à la trinité (Trimurti), le 3 symbolise connaissance, sagesse, croissance spirituelle et expansion.",
+      "Numérologie japonaise": "le 3 (三, san) est perçu positivement et associé à la croissance et à la créativité ; il peut représenter l’équilibre et la spontanéité.",
+      "Numérologie islamique (soufie)": "le 3 représente la triade (Allah, l’univers et l’homme), ou les trois niveaux de l’être (corps, âme, esprit) ; il symbolise l’harmonie et l’équilibre.",
+      "Numérologie biblique (chrétienne)": "le 3 est associé à la Trinité (Père, Fils, Saint-Esprit) et symbolise la complétude divine ; il apparaît aussi dans la résurrection au troisième jour.",
+      "Guématrie (juive)": "valeur numérique de la lettre Gimel (ג), le 3 symbolise la générosité (g'milut) et le mouvement ; il est lié à la charité et à l’action bienveillante.",
+      "Système abjad (islamique)": "le 3 correspond à la lettre ج (jím) ; originaire du sémitique gimmel « chameau », il évoque le voyage, la patience et la générosité du porteur de charges."
+    }
+  },
+  {
+    "index": 1,
+    "digit": 1,
+    "analysis": {
+      "Tradition pythagoricienne": "le 1 symbolise le commencement, l’individualité, le leadership et l’affirmation ; il représente l’unité et l’initiative.",
+      "Numérologie chaldéenne": "gouverné par le Soleil, le 1 représente l’énergie, l’indépendance, l’ambition et l’autorité ; il favorise la confiance et la créativité.",
+      "Numérologie kabbalistique (juive)": "relié à la séphira Kether (Couronne), le 1 symbolise l’unité divine, la source de toute création et la conscience supérieure.",
+      "Numérologie chinoise": "le 1 est associé à l’unité, à l’origine et à l’élément de l’eau ; il représente le début et la potentialité.",
+      "Numérologie hindoue": "associé au Soleil et à la conscience, le 1 représente l’ego, la force vitale et le pouvoir créateur ; il symbolise aussi l’unité avec Brahman.",
+      "Numérologie japonaise": "le 1 (一, ichi) symbolise l’origine et l’unité ; il est neutre ou favorable selon le contexte et représente le début.",
+      "Numérologie islamique (soufie)": "le 1 symbolise l’unicité de Dieu (Tawhid) et le principe de l’unité ; il représente la vérité et l’essence divine.",
+      "Numérologie biblique (chrétienne)": "le 1 symbolise l’unité de Dieu et la primauté ; il représente aussi l’unité du corps du Christ.",
+      "Guématrie (juive)": "valeur numérique de la lettre Alef (א), le 1 représente l’unité, Dieu et le commencement ; il est aussi associé à la notion de chef et d’origine.",
+      "Système abjad (islamique)": "le 1 correspond à la lettre ا (alif), symbole de l’unicité et de la primauté ; il représente l’unité divine."
+    }
+  },
+  {
+    "index": 2,
+    "digit": 4,
+    "analysis": {
+      "Tradition pythagoricienne": "le 4 symbolise la stabilité, l’ordre, la structure et le pragmatisme ; il incarne le travail, la discipline et la fiabilité.",
+      "Numérologie chaldéenne": "gouverné par Rahu (le nœud nord lunaire), le 4 représente l’originalité, l’imprévu, l’intelligence pratique et parfois des défis ou des obstacles ; il est associé à la construction et à la persévérance.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Chesed (Bonté), le 4 symbolise la bienveillance, la stabilité et l’expansion ordonnée ; il évoque aussi les quatre lettres du Tétragramme.",
+      "Numérologie chinoise": "le 4 est souvent considéré comme malchanceux car sa prononciation ressemble au mot « mort » ; toutefois, il peut aussi représenter la stabilité (quatre directions, quatre saisons).",
+      "Numérologie hindoue": "associé à Rahu, le 4 représente la matérialité, les fondations, la discipline et les défis karmiques ; il peut apporter innovation et changement.",
+      "Numérologie japonaise": "le 4 (四, shi/yon) est souvent évité car « shi » signifie aussi « mort » ; il est considéré comme malchanceux dans certains contextes.",
+      "Numérologie islamique (soufie)": "le 4 symbolise les quatre éléments, les quatre directions et les quatre califes ; il représente la stabilité du monde et les fondations de la création.",
+      "Numérologie biblique (chrétienne)": "le 4 représente souvent la création matérielle (quatre coins de la terre, quatre vents) et la totalité du monde créé.",
+      "Guématrie (juive)": "valeur de la lettre Dalet (ד), le 4 symbolise la porte, la pauvreté (dal) et l’humilité ; il évoque l’accès et la transition.",
+      "Système abjad (islamique)": "le 4 correspond à la lettre د (dāl), liée à la porte et à l’orientation ; il peut symboliser l’entrée, la direction et la guidance."
+    }
+  },
+  {
+    "index": 3,
+    "digit": 1,
+    "analysis": {
+      "Tradition pythagoricienne": "le 1 symbolise le commencement, l’individualité, le leadership et l’affirmation ; il représente l’unité et l’initiative.",
+      "Numérologie chaldéenne": "gouverné par le Soleil, le 1 représente l’énergie, l’indépendance, l’ambition et l’autorité ; il favorise la confiance et la créativité.",
+      "Numérologie kabbalistique (juive)": "relié à la séphira Kether (Couronne), le 1 symbolise l’unité divine, la source de toute création et la conscience supérieure.",
+      "Numérologie chinoise": "le 1 est associé à l’unité, à l’origine et à l’élément de l’eau ; il représente le début et la potentialité.",
+      "Numérologie hindoue": "associé au Soleil et à la conscience, le 1 représente l’ego, la force vitale et le pouvoir créateur ; il symbolise aussi l’unité avec Brahman.",
+      "Numérologie japonaise": "le 1 (一, ichi) symbolise l’origine et l’unité ; il est neutre ou favorable selon le contexte et représente le début.",
+      "Numérologie islamique (soufie)": "le 1 symbolise l’unicité de Dieu (Tawhid) et le principe de l’unité ; il représente la vérité et l’essence divine.",
+      "Numérologie biblique (chrétienne)": "le 1 symbolise l’unité de Dieu et la primauté ; il représente aussi l’unité du corps du Christ.",
+      "Guématrie (juive)": "valeur numérique de la lettre Alef (א), le 1 représente l’unité, Dieu et le commencement ; il est aussi associé à la notion de chef et d’origine.",
+      "Système abjad (islamique)": "le 1 correspond à la lettre ا (alif), symbole de l’unicité et de la primauté ; il représente l’unité divine."
+    }
+  },
+  {
+    "index": 4,
+    "digit": 5,
+    "analysis": {
+      "Tradition pythagoricienne": "le 5 représente le changement, la liberté, l’aventure et la curiosité ; il symbolise l’adaptabilité et l’expérience.",
+      "Numérologie chaldéenne": "gouverné par Mercure, le 5 est associé à l’intelligence, à la communication, à la mobilité et à la ruse ; il favorise les voyages et l’innovation.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Geburah (Rigueur), le 5 symbolise la force, la discipline et la transformation par l’épreuve ; il peut représenter l’équilibre entre miséricorde et jugement.",
+      "Numérologie chinoise": "le 5 est un nombre central, représentant les cinq éléments (bois, feu, terre, métal, eau) et l’équilibre ; il est associé à l’harmonie cosmique.",
+      "Numérologie hindoue": "associé à Mercure, le 5 représente l’intellect, la communication, la curiosité et le mouvement ; il est aussi lié aux cinq sens et à l’expérience humaine.",
+      "Numérologie japonaise": "le 5 (五, go) est associé aux cinq éléments et à l’équilibre ; il peut symboliser la complétude et l’harmonie.",
+      "Numérologie islamique (soufie)": "le 5 représente souvent les cinq piliers de l’islam et peut symboliser la protection et la foi ; il est aussi lié aux cinq prières quotidiennes.",
+      "Numérologie biblique (chrétienne)": "le 5 est associé à la grâce et à la bonté de Dieu ; il peut représenter les cinq plaies du Christ ou les cinq livres de la Torah.",
+      "Guématrie (juive)": "valeur de la lettre Hé (ה), le 5 symbolise la révélation, la respiration divine et la grâce ; il est associé à un ajout de spiritualité.",
+      "Système abjad (islamique)": "le 5 correspond à la lettre هـ (hāʾ), liée à la respiration et à la présence ; il peut symboliser le souffle divin."
+    }
+  },
+  {
+    "index": 5,
+    "digit": 9,
+    "analysis": {
+      "Tradition pythagoricienne": "le 9 représente l’achèvement, la sagesse, la compassion et l’humanitarisme ; il est associé à la fin d’un cycle et à l’altruisme.",
+      "Numérologie chaldéenne": "gouverné par Mars, le 9 symbolise la force, l’énergie, la passion et la détermination ; il favorise le courage et l’action.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Yesod (Fondation), le 9 représente la connexion, la transmission et la stabilisation des énergies ; il évoque aussi la fécondité et l’inconscient.",
+      "Numérologie chinoise": "le 9 est un nombre très chanceux associé à la longévité, à l’empire et à l’accomplissement ; il symbolise l’éternité et la puissance.",
+      "Numérologie hindoue": "associé à Mars, le 9 représente l’action, l’énergie, la guerre intérieure et la force ; il peut aussi symboliser la réalisation spirituelle (Navaratri).",
+      "Numérologie japonaise": "le 9 (九, kyū/ku) peut être évité car « ku » ressemble à « souffrance » ; mais il peut aussi représenter la complétude et l’achèvement.",
+      "Numérologie islamique (soufie)": "le 9 est parfois associé à la perfection et à l’accomplissement spirituel ; il peut représenter les neuf niveaux de l’âme dans certaines interprétations.",
+      "Numérologie biblique (chrétienne)": "le 9 est associé aux fruits de l’Esprit (Galates 5:22-23) et peut symboliser la finalité divine et la complétude.",
+      "Guématrie (juive)": "valeur de la lettre Tet (ט), le 9 symbolise le bien caché et la gestation ; il est associé à la bonté potentielle et à la transformation intérieure.",
+      "Système abjad (islamique)": "le 9 correspond à la lettre ط (ṭāʾ), associée à la pureté et à la bonté ; elle peut représenter une force intérieure et une élévation."
+    }
+  },
+  {
+    "index": 6,
+    "digit": 2,
+    "analysis": {
+      "Tradition pythagoricienne": "le 2 symbolise la dualité, la coopération, l’intuition et la sensibilité ; il est associé aux relations et à l’harmonie.",
+      "Numérologie chaldéenne": "gouverné par la Lune, le 2 représente l’émotion, l’intuition, la réceptivité et l’adaptabilité ; il favorise la diplomatie.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Chokhmah (Sagesse), le 2 symbolise l’étincelle de l’intuition et la polarité nécessaire à la création.",
+      "Numérologie chinoise": "le 2 est associé à la dualité yin-yang, à l’équilibre et aux paires ; il est souvent considéré comme chanceux (« les bonnes choses viennent par deux »).",
+      "Numérologie hindoue": "associé à la Lune, le 2 représente l’esprit, les émotions, l’intuition et le besoin de connexion ; il peut aussi indiquer la fluctuation.",
+      "Numérologie japonaise": "le 2 (二, ni) symbolise la dualité et la coopération ; il est généralement neutre ou favorable.",
+      "Numérologie islamique (soufie)": "le 2 symbolise la dualité de la création (ciel/terre, masculin/féminin) et la relation entre l’Un et le multiple ; il évoque la complémentarité.",
+      "Numérologie biblique (chrétienne)": "le 2 symbolise le témoignage et la confirmation (« par la bouche de deux témoins ») et peut représenter la dualité (ancien/nouveau).",
+      "Guématrie (juive)": "valeur de la lettre Bet (ב), le 2 symbolise la maison, l’intériorité et le commencement de la Torah (Bereshit) ; il représente un contenant.",
+      "Système abjad (islamique)": "le 2 correspond à la lettre ب (bāʾ), associée à la maison, à l’ouverture et à l’humilité ; elle symbolise le support et l’accueil."
+    }
+  },
+  {
+    "index": 7,
+    "digit": 6,
+    "analysis": {
+      "Tradition pythagoricienne": "le 6 symbolise l’harmonie, la responsabilité, la famille et le service ; il est associé à la compassion et à l’équilibre domestique.",
+      "Numérologie chaldéenne": "gouverné par Vénus, le 6 représente l’amour, l’esthétique, la compassion et la sensualité ; il favorise les relations et la beauté.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Tiferet (Beauté), le 6 symbolise l’harmonie, l’équilibre et la compassion ; il représente le cœur et l’intégration.",
+      "Numérologie chinoise": "le 6 est considéré chanceux, associé à la fluidité et au succès ; il évoque une progression sans obstacles.",
+      "Numérologie hindoue": "associé à Vénus, le 6 représente l’amour, le confort, l’art et l’harmonie ; il peut aussi indiquer des plaisirs et des responsabilités affectives.",
+      "Numérologie japonaise": "le 6 (六, roku) est généralement favorable ; il symbolise l’harmonie et la stabilité.",
+      "Numérologie islamique (soufie)": "le 6 peut représenter la création en six jours et symboliser l’ordre cosmique ; il évoque aussi l’équilibre et la structure du monde.",
+      "Numérologie biblique (chrétienne)": "le 6 est souvent associé à l’homme (créé le sixième jour) et peut symboliser l’imperfection humaine par rapport à la perfection divine.",
+      "Guématrie (juive)": "valeur de la lettre Vav (ו), le 6 symbolise le lien, la connexion et la conjonction (« et ») ; il représente l’union et la continuité.",
+      "Système abjad (islamique)": "le 6 correspond à la lettre و (wāw), associée au lien et à la conjonction ; elle symbolise l’union et la connexion."
+    }
+  },
+  {
+    "index": 8,
+    "digit": 5,
+    "analysis": {
+      "Tradition pythagoricienne": "le 5 représente le changement, la liberté, l’aventure et la curiosité ; il symbolise l’adaptabilité et l’expérience.",
+      "Numérologie chaldéenne": "gouverné par Mercure, le 5 est associé à l’intelligence, à la communication, à la mobilité et à la ruse ; il favorise les voyages et l’innovation.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Geburah (Rigueur), le 5 symbolise la force, la discipline et la transformation par l’épreuve ; il peut représenter l’équilibre entre miséricorde et jugement.",
+      "Numérologie chinoise": "le 5 est un nombre central, représentant les cinq éléments (bois, feu, terre, métal, eau) et l’équilibre ; il est associé à l’harmonie cosmique.",
+      "Numérologie hindoue": "associé à Mercure, le 5 représente l’intellect, la communication, la curiosité et le mouvement ; il est aussi lié aux cinq sens et à l’expérience humaine.",
+      "Numérologie japonaise": "le 5 (五, go) est associé aux cinq éléments et à l’équilibre ; il peut symboliser la complétude et l’harmonie.",
+      "Numérologie islamique (soufie)": "le 5 représente souvent les cinq piliers de l’islam et peut symboliser la protection et la foi ; il est aussi lié aux cinq prières quotidiennes.",
+      "Numérologie biblique (chrétienne)": "le 5 est associé à la grâce et à la bonté de Dieu ; il peut représenter les cinq plaies du Christ ou les cinq livres de la Torah.",
+      "Guématrie (juive)": "valeur de la lettre Hé (ה), le 5 symbolise la révélation, la respiration divine et la grâce ; il est associé à un ajout de spiritualité.",
+      "Système abjad (islamique)": "le 5 correspond à la lettre هـ (hāʾ), liée à la respiration et à la présence ; il peut symboliser le souffle divin."
+    }
+  },
+  {
+    "index": 9,
+    "digit": 3,
+    "analysis": {
+      "Tradition pythagoricienne": "le 3 est associé à la créativité, à l’expression de soi et à la communication ; il confère charisme, optimisme et talent pour les arts ou l’éloquence.",
+      "Numérologie chaldéenne": "gouverné par Jupiter, le 3 incarne créativité, communication et leadership, attirant vers les arts et la résolution innovante de problèmes.",
+      "Numérologie kabbalistique (juive)": "correspondant à la séphira Binah (Compréhension), le 3 symbolise la compréhension profonde, la réflexion et l’expansion de l’intelligence.",
+      "Numérologie chinoise": "le 3 est considéré comme un nombre chanceux associé à la croissance, au dynamisme et à la vie ; il représente la combinaison harmonieuse du ciel, de la terre et de l’humanité.",
+      "Numérologie hindoue": "associé à Jupiter (Guru) et à la trinité (Trimurti), le 3 symbolise connaissance, sagesse, croissance spirituelle et expansion.",
+      "Numérologie japonaise": "le 3 (三, san) est perçu positivement et associé à la croissance et à la créativité ; il peut représenter l’équilibre et la spontanéité.",
+      "Numérologie islamique (soufie)": "le 3 représente la triade (Allah, l’univers et l’homme), ou les trois niveaux de l’être (corps, âme, esprit) ; il symbolise l’harmonie et l’équilibre.",
+      "Numérologie biblique (chrétienne)": "le 3 est associé à la Trinité (Père, Fils, Saint-Esprit) et symbolise la complétude divine ; il apparaît aussi dans la résurrection au troisième jour.",
+      "Guématrie (juive)": "valeur numérique de la lettre Gimel (ג), le 3 symbolise la générosité (g'milut) et le mouvement ; il est lié à la charité et à l’action bienveillante.",
+      "Système abjad (islamique)": "le 3 correspond à la lettre ج (jím) ; originaire du sémitique gimmel « chameau », il évoque le voyage, la patience et la générosité du porteur de charges."
+    }
+  },
+  {
+    "index": 10,
+    "digit": 5,
+    "analysis": {
+      "Tradition pythagoricienne": "Représente l’indépendance, la liberté, l’aventure, la curiosité et la polyvalence ; désir d’exploration et de changement.",
+      "Numérologie chaldéenne": "Sous l’influence de Mercure, le 5 symbolise l’intelligence, la communication, la flexibilité et la rapidité ; il favorise les voyages et l’innovation.",
+      "Numérologie kabbalistique (juive)": "Associé à la séphira Geburah (Rigueur), le 5 représente la force, la discipline et les transformations par l’épreuve ; équilibre entre justice et miséricorde.",
+      "Numérologie chinoise": "Nombre central associé aux cinq éléments et à l’équilibre ; symbolise l’harmonie cosmique et la stabilité.",
+      "Numérologie hindoue": "Associé à Mercure, le 5 évoque l’esprit vif, la curiosité, la communication, et les cinq sens ; exploration et adaptabilité.",
+      "Numérologie japonaise": "Le 5 (五, go) évoque la complétude et l’équilibre (cinq éléments) ; associé à l’harmonie.",
+      "Numérologie islamique (soufie)": "Évoque les cinq piliers de l’islam, les cinq prières quotidiennes ; protection, foi et discipline spirituelle.",
+      "Numérologie biblique (chrétienne)": "Symbole de la grâce et de la bonté divine ; évoque aussi les cinq livres de la Torah et les cinq plaies du Christ.",
+      "Guématrie (juive)": "Valeur de la lettre Hé (ה), associée à la révélation, au souffle et à la grâce ; ajout de spiritualité à l’être.",
+      "Système abjad (islamique)": "Le 5 correspond à هـ (hāʾ), lettre du souffle et de la présence ; évoque la respiration et l’inspiration divine."
+    }
+  },
+  {
+    "index": 11,
+    "digit": 8,
+    "analysis": {
+      "Tradition pythagoricienne": "le 8 symbolise l’autorité, le pouvoir, l’ambition et la réussite matérielle ; il est associé à la gestion et à la justice.",
+      "Numérologie chaldéenne": "gouverné par Saturne, le 8 représente la discipline, la persévérance, le karma et l’endurance ; il peut apporter succès à long terme.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Hod (Gloire), le 8 symbolise l’intellect structuré, la communication et la capacité de manifester dans la matière ; il peut aussi évoquer la transcendance au-delà du cycle naturel.",
+      "Numérologie chinoise": "le 8 est extrêmement chanceux, associé à la prospérité et à la richesse ; sa prononciation ressemble à « fortune ».",
+      "Numérologie hindoue": "associé à Saturne (Shani), le 8 représente le karma, la discipline, la responsabilité et la réussite durable ; il peut impliquer des épreuves nécessaires.",
+      "Numérologie japonaise": "le 8 (八, hachi) est favorable ; sa forme s’élargissant vers le bas symbolise la croissance et la prospérité.",
+      "Numérologie islamique (soufie)": "le 8 peut représenter les huit portes du paradis ; il symbolise la récompense spirituelle, la complétude et l’abondance divine.",
+      "Numérologie biblique (chrétienne)": "le 8 symbolise le renouveau et la résurrection (huitième jour) ; il représente un nouveau commencement au-delà du cycle de sept.",
+      "Guématrie (juive)": "valeur de la lettre Het (ח), le 8 symbolise la vie (chai) et la vitalité ; il est associé à l’énergie vivante et au renouveau.",
+      "Système abjad (islamique)": "le 8 correspond à la lettre ح (ḥāʾ), associée à la vie et à la vérité intérieure ; elle peut évoquer la vitalité et la sincérité."
+    }
+  },
+  {
+    "index": 12,
+    "digit": 9,
+    "analysis": {
+      "Tradition pythagoricienne": "le 9 représente l’achèvement, la sagesse, la compassion et l’humanitarisme ; il est associé à la fin d’un cycle et à l’altruisme.",
+      "Numérologie chaldéenne": "gouverné par Mars, le 9 symbolise la force, l’énergie, la passion et la détermination ; il favorise le courage et l’action.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Yesod (Fondation), le 9 représente la connexion, la transmission et la stabilisation des énergies ; il évoque aussi la fécondité et l’inconscient.",
+      "Numérologie chinoise": "le 9 est un nombre très chanceux associé à la longévité, à l’empire et à l’accomplissement ; il symbolise l’éternité et la puissance.",
+      "Numérologie hindoue": "associé à Mars, le 9 représente l’action, l’énergie, la guerre intérieure et la force ; il peut aussi symboliser la réalisation spirituelle (Navaratri).",
+      "Numérologie japonaise": "le 9 (九, kyū/ku) peut être évité car « ku » ressemble à « souffrance » ; mais il peut aussi représenter la complétude et l’achèvement.",
+      "Numérologie islamique (soufie)": "le 9 est parfois associé à la perfection et à l’accomplissement spirituel ; il peut représenter les neuf niveaux de l’âme dans certaines interprétations.",
+      "Numérologie biblique (chrétienne)": "le 9 est associé aux fruits de l’Esprit (Galates 5:22-23) et peut symboliser la finalité divine et la complétude.",
+      "Guématrie (juive)": "valeur de la lettre Tet (ט), le 9 symbolise le bien caché et la gestation ; il est associé à la bonté potentielle et à la transformation intérieure.",
+      "Système abjad (islamique)": "le 9 correspond à la lettre ط (ṭāʾ), associée à la pureté et à la bonté ; elle peut représenter une force intérieure et une élévation."
+    }
+  },
+  {
+    "index": 13,
+    "digit": 7,
+    "analysis": {
+      "Tradition pythagoricienne": "le 7 symbolise la spiritualité, l’introspection, l’analyse et la quête de vérité ; il est associé à la sagesse et au mystère.",
+      "Numérologie chaldéenne": "gouverné par Ketu (nœud sud lunaire), le 7 représente la recherche intérieure, la mystique, l’analyse profonde et parfois l’isolement ; il favorise la sagesse spirituelle.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Netzach (Victoire), le 7 symbolise l’endurance, l’inspiration et l’accomplissement ; il peut aussi représenter la perfection spirituelle.",
+      "Numérologie chinoise": "le 7 est associé à la spiritualité et aux cycles naturels ; il peut être neutre ou mystique selon les traditions.",
+      "Numérologie hindoue": "associé à Ketu, le 7 symbolise la spiritualité, la réflexion, la recherche de connaissance et le détachement ; il peut représenter la sagesse intérieure.",
+      "Numérologie japonaise": "le 7 (七, nana/shichi) est généralement favorable ; il est associé à la chance (sept dieux de la fortune) et à la protection.",
+      "Numérologie islamique (soufie)": "le 7 représente souvent les sept cieux et les sept niveaux spirituels ; il symbolise la complétude et l’élévation.",
+      "Numérologie biblique (chrétienne)": "le 7 est le nombre de la perfection divine (création en sept jours) ; il représente l’accomplissement et la sainteté.",
+      "Guématrie (juive)": "valeur de la lettre Zayin (ז), le 7 symbolise l’arme ou la lutte, mais aussi la subsistance ; il peut évoquer la victoire et la protection.",
+      "Système abjad (islamique)": "le 7 correspond à la lettre ز (zāy), associée à la parure et à l’élévation ; elle peut symboliser l’ornement et la distinction."
+    }
+  },
+  {
+    "index": 14,
+    "digit": 9,
+    "analysis": {
+      "Tradition pythagoricienne": "le 9 représente l’achèvement, la sagesse, la compassion et l’humanitarisme ; il est associé à la fin d’un cycle et à l’altruisme.",
+      "Numérologie chaldéenne": "gouverné par Mars, le 9 symbolise la force, l’énergie, la passion et la détermination ; il favorise le courage et l’action.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Yesod (Fondation), le 9 représente la connexion, la transmission et la stabilisation des énergies ; il évoque aussi la fécondité et l’inconscient.",
+      "Numérologie chinoise": "le 9 est un nombre très chanceux associé à la longévité, à l’empire et à l’accomplissement ; il symbolise l’éternité et la puissance.",
+      "Numérologie hindoue": "associé à Mars, le 9 représente l’action, l’énergie, la guerre intérieure et la force ; il peut aussi symboliser la réalisation spirituelle (Navaratri).",
+      "Numérologie japonaise": "le 9 (九, kyū/ku) peut être évité car « ku » ressemble à « souffrance » ; mais il peut aussi représenter la complétude et l’achèvement.",
+      "Numérologie islamique (soufie)": "le 9 est parfois associé à la perfection et à l’accomplissement spirituel ; il peut représenter les neuf niveaux de l’âme dans certaines interprétations.",
+      "Numérologie biblique (chrétienne)": "le 9 est associé aux fruits de l’Esprit (Galates 5:22-23) et peut symboliser la finalité divine et la complétude.",
+      "Guématrie (juive)": "valeur de la lettre Tet (ט), le 9 symbolise le bien caché et la gestation ; il est associé à la bonté potentielle et à la transformation intérieure.",
+      "Système abjad (islamique)": "le 9 correspond à la lettre ط (ṭāʾ), associée à la pureté et à la bonté ; elle peut représenter une force intérieure et une élévation."
+    }
+  },
+  {
+    "index": 15,
+    "digit": 3,
+    "analysis": {
+      "Tradition pythagoricienne": "le 3 est associé à la créativité, à l’expression de soi et à la communication ; il confère charisme, optimisme et talent pour les arts ou l’éloquence.",
+      "Numérologie chaldéenne": "gouverné par Jupiter, le 3 incarne créativité, communication et leadership, attirant vers les arts et la résolution innovante de problèmes.",
+      "Numérologie kabbalistique (juive)": "correspondant à la séphira Binah (Compréhension), le 3 symbolise la compréhension profonde, la réflexion et l’expansion de l’intelligence.",
+      "Numérologie chinoise": "le 3 est considéré comme un nombre chanceux associé à la croissance, au dynamisme et à la vie ; il représente la combinaison harmonieuse du ciel, de la terre et de l’humanité.",
+      "Numérologie hindoue": "associé à Jupiter (Guru) et à la trinité (Trimurti), le 3 symbolise connaissance, sagesse, croissance spirituelle et expansion.",
+      "Numérologie japonaise": "le 3 (三, san) est perçu positivement et associé à la croissance et à la créativité ; il peut représenter l’équilibre et la spontanéité.",
+      "Numérologie islamique (soufie)": "le 3 représente la triade (Allah, l’univers et l’homme), ou les trois niveaux de l’être (corps, âme, esprit) ; il symbolise l’harmonie et l’équilibre.",
+      "Numérologie biblique (chrétienne)": "le 3 est associé à la Trinité (Père, Fils, Saint-Esprit) et symbolise la complétude divine ; il apparaît aussi dans la résurrection au troisième jour.",
+      "Guématrie (juive)": "valeur numérique de la lettre Gimel (ג), le 3 symbolise la générosité (g'milut) et le mouvement ; il est lié à la charité et à l’action bienveillante.",
+      "Système abjad (islamique)": "le 3 correspond à la lettre ج (jím) ; originaire du sémitique gimmel « chameau », il évoque le voyage, la patience et la générosité du porteur de charges."
+    }
+  },
+  {
+    "index": 16,
+    "digit": 2,
+    "analysis": {
+      "Tradition pythagoricienne": "le 2 symbolise la dualité, la coopération, l’intuition et la sensibilité ; il est associé aux relations et à l’harmonie.",
+      "Numérologie chaldéenne": "gouverné par la Lune, le 2 représente l’émotion, l’intuition, la réceptivité et l’adaptabilité ; il favorise la diplomatie.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Chokhmah (Sagesse), le 2 symbolise l’étincelle de l’intuition et la polarité nécessaire à la création.",
+      "Numérologie chinoise": "le 2 est associé à la dualité yin-yang, à l’équilibre et aux paires ; il est souvent considéré comme chanceux (« les bonnes choses viennent par deux »).",
+      "Numérologie hindoue": "associé à la Lune, le 2 représente l’esprit, les émotions, l’intuition et le besoin de connexion ; il peut aussi indiquer la fluctuation.",
+      "Numérologie japonaise": "le 2 (二, ni) symbolise la dualité et la coopération ; il est généralement neutre ou favorable.",
+      "Numérologie islamique (soufie)": "le 2 symbolise la dualité de la création (ciel/terre, masculin/féminin) et la relation entre l’Un et le multiple ; il évoque la complémentarité.",
+      "Numérologie biblique (chrétienne)": "le 2 symbolise le témoignage et la confirmation (« par la bouche de deux témoins ») et peut représenter la dualité (ancien/nouveau).",
+      "Guématrie (juive)": "valeur de la lettre Bet (ב), le 2 symbolise la maison, l’intériorité et le commencement de la Torah (Bereshit) ; il représente un contenant.",
+      "Système abjad (islamique)": "le 2 correspond à la lettre ب (bāʾ), associée à la maison, à l’ouverture et à l’humilité ; elle symbolise le support et l’accueil."
+    }
+  },
+  {
+    "index": 17,
+    "digit": 3,
+    "analysis": {
+      "Tradition pythagoricienne": "le 3 est associé à la créativité, à l’expression de soi et à la communication ; il confère charisme, optimisme et talent pour les arts ou l’éloquence.",
+      "Numérologie chaldéenne": "gouverné par Jupiter, le 3 incarne créativité, communication et leadership, attirant vers les arts et la résolution innovante de problèmes.",
+      "Numérologie kabbalistique (juive)": "correspondant à la séphira Binah (Compréhension), le 3 symbolise la compréhension profonde, la réflexion et l’expansion de l’intelligence.",
+      "Numérologie chinoise": "le 3 est considéré comme un nombre chanceux associé à la croissance, au dynamisme et à la vie ; il représente la combinaison harmonieuse du ciel, de la terre et de l’humanité.",
+      "Numérologie hindoue": "associé à Jupiter (Guru) et à la trinité (Trimurti), le 3 symbolise connaissance, sagesse, croissance spirituelle et expansion.",
+      "Numérologie japonaise": "le 3 (三, san) est perçu positivement et associé à la croissance et à la créativité ; il peut représenter l’équilibre et la spontanéité.",
+      "Numérologie islamique (soufie)": "le 3 représente la triade (Allah, l’univers et l’homme), ou les trois niveaux de l’être (corps, âme, esprit) ; il symbolise l’harmonie et l’équilibre.",
+      "Numérologie biblique (chrétienne)": "le 3 est associé à la Trinité (Père, Fils, Saint-Esprit) et symbolise la complétude divine ; il apparaît aussi dans la résurrection au troisième jour.",
+      "Guématrie (juive)": "valeur numérique de la lettre Gimel (ג), le 3 symbolise la générosité (g'milut) et le mouvement ; il est lié à la charité et à l’action bienveillante.",
+      "Système abjad (islamique)": "le 3 correspond à la lettre ج (jím) ; originaire du sémitique gimmel « chameau », il évoque le voyage, la patience et la générosité du porteur de charges."
+    }
+  },
+  {
+    "index": 18,
+    "digit": 8,
+    "analysis": {
+      "Tradition pythagoricienne": "le 8 symbolise l’autorité, le pouvoir, l’ambition et la réussite matérielle ; il est associé à la gestion et à la justice.",
+      "Numérologie chaldéenne": "gouverné par Saturne, le 8 représente la discipline, la persévérance, le karma et l’endurance ; il peut apporter succès à long terme.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Hod (Gloire), le 8 symbolise l’intellect structuré, la communication et la capacité de manifester dans la matière ; il peut aussi évoquer la transcendance au-delà du cycle naturel.",
+      "Numérologie chinoise": "le 8 est extrêmement chanceux, associé à la prospérité et à la richesse ; sa prononciation ressemble à « fortune ».",
+      "Numérologie hindoue": "associé à Saturne (Shani), le 8 représente le karma, la discipline, la responsabilité et la réussite durable ; il peut impliquer des épreuves nécessaires.",
+      "Numérologie japonaise": "le 8 (八, hachi) est favorable ; sa forme s’élargissant vers le bas symbolise la croissance et la prospérité.",
+      "Numérologie islamique (soufie)": "le 8 peut représenter les huit portes du paradis ; il symbolise la récompense spirituelle, la complétude et l’abondance divine.",
+      "Numérologie biblique (chrétienne)": "le 8 symbolise le renouveau et la résurrection (huitième jour) ; il représente un nouveau commencement au-delà du cycle de sept.",
+      "Guématrie (juive)": "valeur de la lettre Het (ח), le 8 symbolise la vie (chai) et la vitalité ; il est associé à l’énergie vivante et au renouveau.",
+      "Système abjad (islamique)": "le 8 correspond à la lettre ح (ḥāʾ), associée à la vie et à la vérité intérieure ; elle peut évoquer la vitalité et la sincérité."
+    }
+  },
+  {
+    "index": 19,
+    "digit": 4,
+    "analysis": {
+      "Tradition pythagoricienne": "le 4 symbolise la stabilité, l’ordre, la structure et le pragmatisme ; il incarne le travail, la discipline et la fiabilité.",
+      "Numérologie chaldéenne": "gouverné par Rahu (le nœud nord lunaire), le 4 représente l’originalité, l’imprévu, l’intelligence pratique et parfois des défis ou des obstacles ; il est associé à la construction et à la persévérance.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Chesed (Bonté), le 4 symbolise la bienveillance, la stabilité et l’expansion ordonnée ; il évoque aussi les quatre lettres du Tétragramme.",
+      "Numérologie chinoise": "le 4 est souvent considéré comme malchanceux car sa prononciation ressemble au mot « mort » ; toutefois, il peut aussi représenter la stabilité (quatre directions, quatre saisons).",
+      "Numérologie hindoue": "associé à Rahu, le 4 représente la matérialité, les fondations, la discipline et les défis karmiques ; il peut apporter innovation et changement.",
+      "Numérologie japonaise": "le 4 (四, shi/yon) est souvent évité car « shi » signifie aussi « mort » ; il est considéré comme malchanceux dans certains contextes.",
+      "Numérologie islamique (soufie)": "le 4 symbolise les quatre éléments, les quatre directions et les quatre califes ; il représente la stabilité du monde et les fondations de la création.",
+      "Numérologie biblique (chrétienne)": "le 4 représente souvent la création matérielle (quatre coins de la terre, quatre vents) et la totalité du monde créé.",
+      "Guématrie (juive)": "valeur de la lettre Dalet (ד), le 4 symbolise la porte, la pauvreté (dal) et l’humilité ; il évoque l’accès et la transition.",
+      "Système abjad (islamique)": "le 4 correspond à la lettre د (dāl), liée à la porte et à l’orientation ; il peut symboliser l’entrée, la direction et la guidance."
+    }
+  },
+  {
+    "index": 20,
+    "digit": 6,
+    "analysis": {
+      "Tradition pythagoricienne": "le 6 symbolise l’harmonie, la responsabilité, la famille et le service ; il est associé à la compassion et à l’équilibre domestique.",
+      "Numérologie chaldéenne": "gouverné par Vénus, le 6 représente l’amour, l’esthétique, la compassion et la sensualité ; il favorise les relations et la beauté.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Tiferet (Beauté), le 6 symbolise l’harmonie, l’équilibre et la compassion ; il représente le cœur et l’intégration.",
+      "Numérologie chinoise": "le 6 est considéré chanceux, associé à la fluidité et au succès ; il évoque une progression sans obstacles.",
+      "Numérologie hindoue": "associé à Vénus, le 6 représente l’amour, le confort, l’art et l’harmonie ; il peut aussi indiquer des plaisirs et des responsabilités affectives.",
+      "Numérologie japonaise": "le 6 (六, roku) est généralement favorable ; il symbolise l’harmonie et la stabilité.",
+      "Numérologie islamique (soufie)": "le 6 peut représenter la création en six jours et symboliser l’ordre cosmique ; il évoque aussi l’équilibre et la structure du monde.",
+      "Numérologie biblique (chrétienne)": "le 6 est souvent associé à l’homme (créé le sixième jour) et peut symboliser l’imperfection humaine par rapport à la perfection divine.",
+      "Guématrie (juive)": "valeur de la lettre Vav (ו), le 6 symbolise le lien, la connexion et la conjonction (« et ») ; il représente l’union et la continuité.",
+      "Système abjad (islamique)": "le 6 correspond à la lettre و (wāw), associée au lien et à la conjonction ; elle symbolise l’union et la connexion."
+    }
+  },
+  {
+    "index": 21,
+    "digit": 2,
+    "analysis": {
+      "Tradition pythagoricienne": "le 2 symbolise la dualité, la coopération, l’intuition et la sensibilité ; il est associé aux relations et à l’harmonie.",
+      "Numérologie chaldéenne": "gouverné par la Lune, le 2 représente l’émotion, l’intuition, la réceptivité et l’adaptabilité ; il favorise la diplomatie.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Chokhmah (Sagesse), le 2 symbolise l’étincelle de l’intuition et la polarité nécessaire à la création.",
+      "Numérologie chinoise": "le 2 est associé à la dualité yin-yang, à l’équilibre et aux paires ; il est souvent considéré comme chanceux (« les bonnes choses viennent par deux »).",
+      "Numérologie hindoue": "associé à la Lune, le 2 représente l’esprit, les émotions, l’intuition et le besoin de connexion ; il peut aussi indiquer la fluctuation.",
+      "Numérologie japonaise": "le 2 (二, ni) symbolise la dualité et la coopération ; il est généralement neutre ou favorable.",
+      "Numérologie islamique (soufie)": "le 2 symbolise la dualité de la création (ciel/terre, masculin/féminin) et la relation entre l’Un et le multiple ; il évoque la complémentarité.",
+      "Numérologie biblique (chrétienne)": "le 2 symbolise le témoignage et la confirmation (« par la bouche de deux témoins ») et peut représenter la dualité (ancien/nouveau).",
+      "Guématrie (juive)": "valeur de la lettre Bet (ב), le 2 symbolise la maison, l’intériorité et le commencement de la Torah (Bereshit) ; il représente un contenant.",
+      "Système abjad (islamique)": "le 2 correspond à la lettre ب (bāʾ), associée à la maison, à l’ouverture et à l’humilité ; elle symbolise le support et l’accueil."
+    }
+  },
+  {
+    "index": 22,
+    "digit": 6,
+    "analysis": {
+      "Tradition pythagoricienne": "le 6 symbolise l’harmonie, la responsabilité, la famille et le service ; il est associé à la compassion et à l’équilibre domestique.",
+      "Numérologie chaldéenne": "gouverné par Vénus, le 6 représente l’amour, l’esthétique, la compassion et la sensualité ; il favorise les relations et la beauté.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Tiferet (Beauté), le 6 symbolise l’harmonie, l’équilibre et la compassion ; il représente le cœur et l’intégration.",
+      "Numérologie chinoise": "le 6 est considéré chanceux, associé à la fluidité et au succès ; il évoque une progression sans obstacles.",
+      "Numérologie hindoue": "associé à Vénus, le 6 représente l’amour, le confort, l’art et l’harmonie ; il peut aussi indiquer des plaisirs et des responsabilités affectives.",
+      "Numérologie japonaise": "le 6 (六, roku) est généralement favorable ; il symbolise l’harmonie et la stabilité.",
+      "Numérologie islamique (soufie)": "le 6 peut représenter la création en six jours et symboliser l’ordre cosmique ; il évoque aussi l’équilibre et la structure du monde.",
+      "Numérologie biblique (chrétienne)": "le 6 est souvent associé à l’homme (créé le sixième jour) et peut symboliser l’imperfection humaine par rapport à la perfection divine.",
+      "Guématrie (juive)": "valeur de la lettre Vav (ו), le 6 symbolise le lien, la connexion et la conjonction (« et ») ; il représente l’union et la continuité.",
+      "Système abjad (islamique)": "le 6 correspond à la lettre و (wāw), associée au lien et à la conjonction ; elle symbolise l’union et la connexion."
+    }
+  },
+  {
+    "index": 23,
+    "digit": 4,
+    "analysis": {
+      "Tradition pythagoricienne": "le 4 symbolise la stabilité, l’ordre, la structure et le pragmatisme ; il incarne le travail, la discipline et la fiabilité.",
+      "Numérologie chaldéenne": "gouverné par Rahu (le nœud nord lunaire), le 4 représente l’originalité, l’imprévu, l’intelligence pratique et parfois des défis ou des obstacles ; il est associé à la construction et à la persévérance.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Chesed (Bonté), le 4 symbolise la bienveillance, la stabilité et l’expansion ordonnée ; il évoque aussi les quatre lettres du Tétragramme.",
+      "Numérologie chinoise": "le 4 est souvent considéré comme malchanceux car sa prononciation ressemble au mot « mort » ; toutefois, il peut aussi représenter la stabilité (quatre directions, quatre saisons).",
+      "Numérologie hindoue": "associé à Rahu, le 4 représente la matérialité, les fondations, la discipline et les défis karmiques ; il peut apporter innovation et changement.",
+      "Numérologie japonaise": "le 4 (四, shi/yon) est souvent évité car « shi » signifie aussi « mort » ; il est considéré comme malchanceux dans certains contextes.",
+      "Numérologie islamique (soufie)": "le 4 symbolise les quatre éléments, les quatre directions et les quatre califes ; il représente la stabilité du monde et les fondations de la création.",
+      "Numérologie biblique (chrétienne)": "le 4 représente souvent la création matérielle (quatre coins de la terre, quatre vents) et la totalité du monde créé.",
+      "Guématrie (juive)": "valeur de la lettre Dalet (ד), le 4 symbolise la porte, la pauvreté (dal) et l’humilité ; il évoque l’accès et la transition.",
+      "Système abjad (islamique)": "le 4 correspond à la lettre د (dāl), liée à la porte et à l’orientation ; il peut symboliser l’entrée, la direction et la guidance."
+    }
+  },
+  {
+    "index": 24,
+    "digit": 3,
+    "analysis": {
+      "Tradition pythagoricienne": "le 3 est associé à la créativité, à l’expression de soi et à la communication ; il confère charisme, optimisme et talent pour les arts ou l’éloquence.",
+      "Numérologie chaldéenne": "gouverné par Jupiter, le 3 incarne créativité, communication et leadership, attirant vers les arts et la résolution innovante de problèmes.",
+      "Numérologie kabbalistique (juive)": "correspondant à la séphira Binah (Compréhension), le 3 symbolise la compréhension profonde, la réflexion et l’expansion de l’intelligence.",
+      "Numérologie chinoise": "le 3 est considéré comme un nombre chanceux associé à la croissance, au dynamisme et à la vie ; il représente la combinaison harmonieuse du ciel, de la terre et de l’humanité.",
+      "Numérologie hindoue": "associé à Jupiter (Guru) et à la trinité (Trimurti), le 3 symbolise connaissance, sagesse, croissance spirituelle et expansion.",
+      "Numérologie japonaise": "le 3 (三, san) est perçu positivement et associé à la croissance et à la créativité ; il peut représenter l’équilibre et la spontanéité.",
+      "Numérologie islamique (soufie)": "le 3 représente la triade (Allah, l’univers et l’homme), ou les trois niveaux de l’être (corps, âme, esprit) ; il symbolise l’harmonie et l’équilibre.",
+      "Numérologie biblique (chrétienne)": "le 3 est associé à la Trinité (Père, Fils, Saint-Esprit) et symbolise la complétude divine ; il apparaît aussi dans la résurrection au troisième jour.",
+      "Guématrie (juive)": "valeur numérique de la lettre Gimel (ג), le 3 symbolise la générosité (g'milut) et le mouvement ; il est lié à la charité et à l’action bienveillante.",
+      "Système abjad (islamique)": "le 3 correspond à la lettre ج (jím) ; originaire du sémitique gimmel « chameau », il évoque le voyage, la patience et la générosité du porteur de charges."
+    }
+  },
+  {
+    "index": 25,
+    "digit": 3,
+    "analysis": {
+      "Tradition pythagoricienne": "le 3 est associé à la créativité, à l’expression de soi et à la communication ; il confère charisme, optimisme et talent pour les arts ou l’éloquence.",
+      "Numérologie chaldéenne": "gouverné par Jupiter, le 3 incarne créativité, communication et leadership, attirant vers les arts et la résolution innovante de problèmes.",
+      "Numérologie kabbalistique (juive)": "correspondant à la séphira Binah (Compréhension), le 3 symbolise la compréhension profonde, la réflexion et l’expansion de l’intelligence.",
+      "Numérologie chinoise": "le 3 est considéré comme un nombre chanceux associé à la croissance, au dynamisme et à la vie ; il représente la combinaison harmonieuse du ciel, de la terre et de l’humanité.",
+      "Numérologie hindoue": "associé à Jupiter (Guru) et à la trinité (Trimurti), le 3 symbolise connaissance, sagesse, croissance spirituelle et expansion.",
+      "Numérologie japonaise": "le 3 (三, san) est perçu positivement et associé à la croissance et à la créativité ; il peut représenter l’équilibre et la spontanéité.",
+      "Numérologie islamique (soufie)": "le 3 représente la triade (Allah, l’univers et l’homme), ou les trois niveaux de l’être (corps, âme, esprit) ; il symbolise l’harmonie et l’équilibre.",
+      "Numérologie biblique (chrétienne)": "le 3 est associé à la Trinité (Père, Fils, Saint-Esprit) et symbolise la complétude divine ; il apparaît aussi dans la résurrection au troisième jour.",
+      "Guématrie (juive)": "valeur numérique de la lettre Gimel (ג), le 3 symbolise la générosité (g'milut) et le mouvement ; il est lié à la charité et à l’action bienveillante.",
+      "Système abjad (islamique)": "le 3 correspond à la lettre ج (jím) ; originaire du sémitique gimmel « chameau », il évoque le voyage, la patience et la générosité du porteur de charges."
+    }
+  },
+  {
+    "index": 26,
+    "digit": 8,
+    "analysis": {
+      "Tradition pythagoricienne": "le 8 symbolise l’autorité, le pouvoir, l’ambition et la réussite matérielle ; il est associé à la gestion et à la justice.",
+      "Numérologie chaldéenne": "gouverné par Saturne, le 8 représente la discipline, la persévérance, le karma et l’endurance ; il peut apporter succès à long terme.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Hod (Gloire), le 8 symbolise l’intellect structuré, la communication et la capacité de manifester dans la matière ; il peut aussi évoquer la transcendance au-delà du cycle naturel.",
+      "Numérologie chinoise": "le 8 est extrêmement chanceux, associé à la prospérité et à la richesse ; sa prononciation ressemble à « fortune ».",
+      "Numérologie hindoue": "associé à Saturne (Shani), le 8 représente le karma, la discipline, la responsabilité et la réussite durable ; il peut impliquer des épreuves nécessaires.",
+      "Numérologie japonaise": "le 8 (八, hachi) est favorable ; sa forme s’élargissant vers le bas symbolise la croissance et la prospérité.",
+      "Numérologie islamique (soufie)": "le 8 peut représenter les huit portes du paradis ; il symbolise la récompense spirituelle, la complétude et l’abondance divine.",
+      "Numérologie biblique (chrétienne)": "le 8 symbolise le renouveau et la résurrection (huitième jour) ; il représente un nouveau commencement au-delà du cycle de sept.",
+      "Guématrie (juive)": "valeur de la lettre Het (ח), le 8 symbolise la vie (chai) et la vitalité ; il est associé à l’énergie vivante et au renouveau.",
+      "Système abjad (islamique)": "le 8 correspond à la lettre ح (ḥāʾ), associée à la vie et à la vérité intérieure ; elle peut évoquer la vitalité et la sincérité."
+    }
+  },
+  {
+    "index": 27,
+    "digit": 3,
+    "analysis": {
+      "Tradition pythagoricienne": "le 3 est associé à la créativité, à l’expression de soi et à la communication ; il confère charisme, optimisme et talent pour les arts ou l’éloquence.",
+      "Numérologie chaldéenne": "gouverné par Jupiter, le 3 incarne créativité, communication et leadership, attirant vers les arts et la résolution innovante de problèmes.",
+      "Numérologie kabbalistique (juive)": "correspondant à la séphira Binah (Compréhension), le 3 symbolise la compréhension profonde, la réflexion et l’expansion de l’intelligence.",
+      "Numérologie chinoise": "le 3 est considéré comme un nombre chanceux associé à la croissance, au dynamisme et à la vie ; il représente la combinaison harmonieuse du ciel, de la terre et de l’humanité.",
+      "Numérologie hindoue": "associé à Jupiter (Guru) et à la trinité (Trimurti), le 3 symbolise connaissance, sagesse, croissance spirituelle et expansion.",
+      "Numérologie japonaise": "le 3 (三, san) est perçu positivement et associé à la croissance et à la créativité ; il peut représenter l’équilibre et la spontanéité.",
+      "Numérologie islamique (soufie)": "le 3 représente la triade (Allah, l’univers et l’homme), ou les trois niveaux de l’être (corps, âme, esprit) ; il symbolise l’harmonie et l’équilibre.",
+      "Numérologie biblique (chrétienne)": "le 3 est associé à la Trinité (Père, Fils, Saint-Esprit) et symbolise la complétude divine ; il apparaît aussi dans la résurrection au troisième jour.",
+      "Guématrie (juive)": "valeur numérique de la lettre Gimel (ג), le 3 symbolise la générosité (g'milut) et le mouvement ; il est lié à la charité et à l’action bienveillante.",
+      "Système abjad (islamique)": "le 3 correspond à la lettre ج (jím) ; originaire du sémitique gimmel « chameau », il évoque le voyage, la patience et la générosité du porteur de charges."
+    }
+  },
+  {
+    "index": 28,
+    "digit": 2,
+    "analysis": {
+      "Tradition pythagoricienne": "le 2 symbolise la dualité, la coopération, l’intuition et la sensibilité ; il est associé aux relations et à l’harmonie.",
+      "Numérologie chaldéenne": "gouverné par la Lune, le 2 représente l’émotion, l’intuition, la réceptivité et l’adaptabilité ; il favorise la diplomatie.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Chokhmah (Sagesse), le 2 symbolise l’étincelle de l’intuition et la polarité nécessaire à la création.",
+      "Numérologie chinoise": "le 2 est associé à la dualité yin-yang, à l’équilibre et aux paires ; il est souvent considéré comme chanceux (« les bonnes choses viennent par deux »).",
+      "Numérologie hindoue": "associé à la Lune, le 2 représente l’esprit, les émotions, l’intuition et le besoin de connexion ; il peut aussi indiquer la fluctuation.",
+      "Numérologie japonaise": "le 2 (二, ni) symbolise la dualité et la coopération ; il est généralement neutre ou favorable.",
+      "Numérologie islamique (soufie)": "le 2 symbolise la dualité de la création (ciel/terre, masculin/féminin) et la relation entre l’Un et le multiple ; il évoque la complémentarité.",
+      "Numérologie biblique (chrétienne)": "le 2 symbolise le témoignage et la confirmation (« par la bouche de deux témoins ») et peut représenter la dualité (ancien/nouveau).",
+      "Guématrie (juive)": "valeur de la lettre Bet (ב), le 2 symbolise la maison, l’intériorité et le commencement de la Torah (Bereshit) ; il représente un contenant.",
+      "Système abjad (islamique)": "le 2 correspond à la lettre ب (bāʾ), associée à la maison, à l’ouverture et à l’humilité ; elle symbolise le support et l’accueil."
+    }
+  },
+  {
+    "index": 29,
+    "digit": 7,
+    "analysis": {
+      "Tradition pythagoricienne": "le 7 symbolise la spiritualité, l’introspection, l’analyse et la quête de vérité ; il est associé à la sagesse et au mystère.",
+      "Numérologie chaldéenne": "gouverné par Ketu (nœud sud lunaire), le 7 représente la recherche intérieure, la mystique, l’analyse profonde et parfois l’isolement ; il favorise la sagesse spirituelle.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Netzach (Victoire), le 7 symbolise l’endurance, l’inspiration et l’accomplissement ; il peut aussi représenter la perfection spirituelle.",
+      "Numérologie chinoise": "le 7 est associé à la spiritualité et aux cycles naturels ; il peut être neutre ou mystique selon les traditions.",
+      "Numérologie hindoue": "associé à Ketu, le 7 symbolise la spiritualité, la réflexion, la recherche de connaissance et le détachement ; il peut représenter la sagesse intérieure.",
+      "Numérologie japonaise": "le 7 (七, nana/shichi) est généralement favorable ; il est associé à la chance (sept dieux de la fortune) et à la protection.",
+      "Numérologie islamique (soufie)": "le 7 représente souvent les sept cieux et les sept niveaux spirituels ; il symbolise la complétude et l’élévation.",
+      "Numérologie biblique (chrétienne)": "le 7 est le nombre de la perfection divine (création en sept jours) ; il représente l’accomplissement et la sainteté.",
+      "Guématrie (juive)": "valeur de la lettre Zayin (ז), le 7 symbolise l’arme ou la lutte, mais aussi la subsistance ; il peut évoquer la victoire et la protection.",
+      "Système abjad (islamique)": "le 7 correspond à la lettre ز (zāy), associée à la parure et à l’élévation ; elle peut symboliser l’ornement et la distinction."
+    }
+  },
+  {
+    "index": 30,
+    "digit": 9,
+    "analysis": {
+      "Tradition pythagoricienne": "le 9 représente l’achèvement, la sagesse, la compassion et l’humanitarisme ; il est associé à la fin d’un cycle et à l’altruisme.",
+      "Numérologie chaldéenne": "gouverné par Mars, le 9 symbolise la force, l’énergie, la passion et la détermination ; il favorise le courage et l’action.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Yesod (Fondation), le 9 représente la connexion, la transmission et la stabilisation des énergies ; il évoque aussi la fécondité et l’inconscient.",
+      "Numérologie chinoise": "le 9 est un nombre très chanceux associé à la longévité, à l’empire et à l’accomplissement ; il symbolise l’éternité et la puissance.",
+      "Numérologie hindoue": "associé à Mars, le 9 représente l’action, l’énergie, la guerre intérieure et la force ; il peut aussi symboliser la réalisation spirituelle (Navaratri).",
+      "Numérologie japonaise": "le 9 (九, kyū/ku) peut être évité car « ku » ressemble à « souffrance » ; mais il peut aussi représenter la complétude et l’achèvement.",
+      "Numérologie islamique (soufie)": "le 9 est parfois associé à la perfection et à l’accomplissement spirituel ; il peut représenter les neuf niveaux de l’âme dans certaines interprétations.",
+      "Numérologie biblique (chrétienne)": "le 9 est associé aux fruits de l’Esprit (Galates 5:22-23) et peut symboliser la finalité divine et la complétude.",
+      "Guématrie (juive)": "valeur de la lettre Tet (ט), le 9 symbolise le bien caché et la gestation ; il est associé à la bonté potentielle et à la transformation intérieure.",
+      "Système abjad (islamique)": "le 9 correspond à la lettre ط (ṭāʾ), associée à la pureté et à la bonté ; elle peut représenter une force intérieure et une élévation."
+    }
+  },
+  {
+    "index": 31,
+    "digit": 5,
+    "analysis": {
+      "Tradition pythagoricienne": "le 5 représente le changement, la liberté, l’aventure et la curiosité ; il symbolise l’adaptabilité et l’expérience.",
+      "Numérologie chaldéenne": "gouverné par Mercure, le 5 est associé à l’intelligence, à la communication, à la mobilité et à la ruse ; il favorise les voyages et l’innovation.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Geburah (Rigueur), le 5 symbolise la force, la discipline et la transformation par l’épreuve ; il peut représenter l’équilibre entre miséricorde et jugement.",
+      "Numérologie chinoise": "le 5 est un nombre central, représentant les cinq éléments (bois, feu, terre, métal, eau) et l’équilibre ; il est associé à l’harmonie cosmique.",
+      "Numérologie hindoue": "associé à Mercure, le 5 représente l’intellect, la communication, la curiosité et le mouvement ; il est aussi lié aux cinq sens et à l’expérience humaine.",
+      "Numérologie japonaise": "le 5 (五, go) est associé aux cinq éléments et à l’équilibre ; il peut symboliser la complétude et l’harmonie.",
+      "Numérologie islamique (soufie)": "le 5 représente souvent les cinq piliers de l’islam et peut symboliser la protection et la foi ; il est aussi lié aux cinq prières quotidiennes.",
+      "Numérologie biblique (chrétienne)": "le 5 est associé à la grâce et à la bonté de Dieu ; il peut représenter les cinq plaies du Christ ou les cinq livres de la Torah.",
+      "Guématrie (juive)": "valeur de la lettre Hé (ה), le 5 symbolise la révélation, la respiration divine et la grâce ; il est associé à un ajout de spiritualité.",
+      "Système abjad (islamique)": "le 5 correspond à la lettre هـ (hāʾ), liée à la respiration et à la présence ; il peut symboliser le souffle divin."
+    }
+  },
+  {
+    "index": 32,
+    "digit": 0,
+    "analysis": {
+      "Tradition pythagoricienne": "le 0 est parfois vu comme le potentiel pur, le vide créateur et l’infini ; il amplifie ou spiritualise le chiffre auquel il est associé.",
+      "Numérologie chaldéenne": "le 0 est souvent considéré comme un symbole d’infini ou de protection ; il représente la source et peut amplifier les vibrations voisines.",
+      "Numérologie kabbalistique (juive)": "le 0 peut évoquer l’Ain (le néant divin) ou l’infini (Ein Sof) ; il représente le potentiel non manifesté et la transcendance.",
+      "Numérologie chinoise": "le 0 peut représenter le vide, le cycle complet et le retour ; il est associé à l’idée de totalité et de circularité.",
+      "Numérologie hindoue": "le 0 peut symboliser Brahman, l’infini et le néant créateur ; il évoque la vacuité et la potentialité absolue.",
+      "Numérologie japonaise": "le 0 (零, rei) symbolise le vide et le point de départ ; il peut représenter un état neutre ou potentiel.",
+      "Numérologie islamique (soufie)": "le 0 peut symboliser la vacuité (fanāʾ) et le retour à l’unité divine ; il représente l’effacement de l’ego.",
+      "Numérologie biblique (chrétienne)": "le 0 n’est pas un nombre biblique traditionnel ; symboliquement, il peut représenter le néant avant la création ou l’infini divin.",
+      "Guématrie (juive)": "le 0 n’a pas de lettre dédiée ; symboliquement, il peut renvoyer à l’Ain (néant) et à l’infini divin.",
+      "Système abjad (islamique)": "le 0 n’est pas directement utilisé ; symboliquement, il peut représenter le cercle, l’infini et l’unité."
+    }
+  },
+  {
+    "index": 33,
+    "digit": 2,
+    "analysis": {
+      "Tradition pythagoricienne": "le 2 symbolise la dualité, la coopération, l’intuition et la sensibilité ; il est associé aux relations et à l’harmonie.",
+      "Numérologie chaldéenne": "gouverné par la Lune, le 2 représente l’émotion, l’intuition, la réceptivité et l’adaptabilité ; il favorise la diplomatie.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Chokhmah (Sagesse), le 2 symbolise l’étincelle de l’intuition et la polarité nécessaire à la création.",
+      "Numérologie chinoise": "le 2 est associé à la dualité yin-yang, à l’équilibre et aux paires ; il est souvent considéré comme chanceux (« les bonnes choses viennent par deux »).",
+      "Numérologie hindoue": "associé à la Lune, le 2 représente l’esprit, les émotions, l’intuition et le besoin de connexion ; il peut aussi indiquer la fluctuation.",
+      "Numérologie japonaise": "le 2 (二, ni) symbolise la dualité et la coopération ; il est généralement neutre ou favorable.",
+      "Numérologie islamique (soufie)": "le 2 symbolise la dualité de la création (ciel/terre, masculin/féminin) et la relation entre l’Un et le multiple ; il évoque la complémentarité.",
+      "Numérologie biblique (chrétienne)": "le 2 symbolise le témoignage et la confirmation (« par la bouche de deux témoins ») et peut représenter la dualité (ancien/nouveau).",
+      "Guématrie (juive)": "valeur de la lettre Bet (ב), le 2 symbolise la maison, l’intériorité et le commencement de la Torah (Bereshit) ; il représente un contenant.",
+      "Système abjad (islamique)": "le 2 correspond à la lettre ب (bāʾ), associée à la maison, à l’ouverture et à l’humilité ; elle symbolise le support et l’accueil."
+    }
+  },
+  {
+    "index": 34,
+    "digit": 8,
+    "analysis": {
+      "Tradition pythagoricienne": "le 8 symbolise l’autorité, le pouvoir, l’ambition et la réussite matérielle ; il est associé à la gestion et à la justice.",
+      "Numérologie chaldéenne": "gouverné par Saturne, le 8 représente la discipline, la persévérance, le karma et l’endurance ; il peut apporter succès à long terme.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Hod (Gloire), le 8 symbolise l’intellect structuré, la communication et la capacité de manifester dans la matière ; il peut aussi évoquer la transcendance au-delà du cycle naturel.",
+      "Numérologie chinoise": "le 8 est extrêmement chanceux, associé à la prospérité et à la richesse ; sa prononciation ressemble à « fortune ».",
+      "Numérologie hindoue": "associé à Saturne (Shani), le 8 représente le karma, la discipline, la responsabilité et la réussite durable ; il peut impliquer des épreuves nécessaires.",
+      "Numérologie japonaise": "le 8 (八, hachi) est favorable ; sa forme s’élargissant vers le bas symbolise la croissance et la prospérité.",
+      "Numérologie islamique (soufie)": "le 8 peut représenter les huit portes du paradis ; il symbolise la récompense spirituelle, la complétude et l’abondance divine.",
+      "Numérologie biblique (chrétienne)": "le 8 symbolise le renouveau et la résurrection (huitième jour) ; il représente un nouveau commencement au-delà du cycle de sept.",
+      "Guématrie (juive)": "valeur de la lettre Het (ח), le 8 symbolise la vie (chai) et la vitalité ; il est associé à l’énergie vivante et au renouveau.",
+      "Système abjad (islamique)": "le 8 correspond à la lettre ح (ḥāʾ), associée à la vie et à la vérité intérieure ; elle peut évoquer la vitalité et la sincérité."
+    }
+  },
+  {
+    "index": 35,
+    "digit": 8,
+    "analysis": {
+      "Tradition pythagoricienne": "le 8 symbolise l’autorité, le pouvoir, l’ambition et la réussite matérielle ; il est associé à la gestion et à la justice.",
+      "Numérologie chaldéenne": "gouverné par Saturne, le 8 représente la discipline, la persévérance, le karma et l’endurance ; il peut apporter succès à long terme.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Hod (Gloire), le 8 symbolise l’intellect structuré, la communication et la capacité de manifester dans la matière ; il peut aussi évoquer la transcendance au-delà du cycle naturel.",
+      "Numérologie chinoise": "le 8 est extrêmement chanceux, associé à la prospérité et à la richesse ; sa prononciation ressemble à « fortune ».",
+      "Numérologie hindoue": "associé à Saturne (Shani), le 8 représente le karma, la discipline, la responsabilité et la réussite durable ; il peut impliquer des épreuves nécessaires.",
+      "Numérologie japonaise": "le 8 (八, hachi) est favorable ; sa forme s’élargissant vers le bas symbolise la croissance et la prospérité.",
+      "Numérologie islamique (soufie)": "le 8 peut représenter les huit portes du paradis ; il symbolise la récompense spirituelle, la complétude et l’abondance divine.",
+      "Numérologie biblique (chrétienne)": "le 8 symbolise le renouveau et la résurrection (huitième jour) ; il représente un nouveau commencement au-delà du cycle de sept.",
+      "Guématrie (juive)": "valeur de la lettre Het (ח), le 8 symbolise la vie (chai) et la vitalité ; il est associé à l’énergie vivante et au renouveau.",
+      "Système abjad (islamique)": "le 8 correspond à la lettre ح (ḥāʾ), associée à la vie et à la vérité intérieure ; elle peut évoquer la vitalité et la sincérité."
+    }
+  },
+  {
+    "index": 36,
+    "digit": 4,
+    "analysis": {
+      "Tradition pythagoricienne": "le 4 symbolise la stabilité, l’ordre, la structure et le pragmatisme ; il incarne le travail, la discipline et la fiabilité.",
+      "Numérologie chaldéenne": "gouverné par Rahu (le nœud nord lunaire), le 4 représente l’originalité, l’imprévu, l’intelligence pratique et parfois des défis ou des obstacles ; il est associé à la construction et à la persévérance.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Chesed (Bonté), le 4 symbolise la bienveillance, la stabilité et l’expansion ordonnée ; il évoque aussi les quatre lettres du Tétragramme.",
+      "Numérologie chinoise": "le 4 est souvent considéré comme malchanceux car sa prononciation ressemble au mot « mort » ; toutefois, il peut aussi représenter la stabilité (quatre directions, quatre saisons).",
+      "Numérologie hindoue": "associé à Rahu, le 4 représente la matérialité, les fondations, la discipline et les défis karmiques ; il peut apporter innovation et changement.",
+      "Numérologie japonaise": "le 4 (四, shi/yon) est souvent évité car « shi » signifie aussi « mort » ; il est considéré comme malchanceux dans certains contextes.",
+      "Numérologie islamique (soufie)": "le 4 symbolise les quatre éléments, les quatre directions et les quatre califes ; il représente la stabilité du monde et les fondations de la création.",
+      "Numérologie biblique (chrétienne)": "le 4 représente souvent la création matérielle (quatre coins de la terre, quatre vents) et la totalité du monde créé.",
+      "Guématrie (juive)": "valeur de la lettre Dalet (ד), le 4 symbolise la porte, la pauvreté (dal) et l’humilité ; il évoque l’accès et la transition.",
+      "Système abjad (islamique)": "le 4 correspond à la lettre د (dāl), liée à la porte et à l’orientation ; il peut symboliser l’entrée, la direction et la guidance."
+    }
+  },
+  {
+    "index": 37,
+    "digit": 1,
+    "analysis": {
+      "Tradition pythagoricienne": "le 1 symbolise le commencement, l’individualité, le leadership et l’affirmation ; il représente l’unité et l’initiative.",
+      "Numérologie chaldéenne": "gouverné par le Soleil, le 1 représente l’énergie, l’indépendance, l’ambition et l’autorité ; il favorise la confiance et la créativité.",
+      "Numérologie kabbalistique (juive)": "relié à la séphira Kether (Couronne), le 1 symbolise l’unité divine, la source de toute création et la conscience supérieure.",
+      "Numérologie chinoise": "le 1 est associé à l’unité, à l’origine et à l’élément de l’eau ; il représente le début et la potentialité.",
+      "Numérologie hindoue": "associé au Soleil et à la conscience, le 1 représente l’ego, la force vitale et le pouvoir créateur ; il symbolise aussi l’unité avec Brahman.",
+      "Numérologie japonaise": "le 1 (一, ichi) symbolise l’origine et l’unité ; il est neutre ou favorable selon le contexte et représente le début.",
+      "Numérologie islamique (soufie)": "le 1 symbolise l’unicité de Dieu (Tawhid) et le principe de l’unité ; il représente la vérité et l’essence divine.",
+      "Numérologie biblique (chrétienne)": "le 1 symbolise l’unité de Dieu et la primauté ; il représente aussi l’unité du corps du Christ.",
+      "Guématrie (juive)": "valeur numérique de la lettre Alef (א), le 1 représente l’unité, Dieu et le commencement ; il est aussi associé à la notion de chef et d’origine.",
+      "Système abjad (islamique)": "le 1 correspond à la lettre ا (alif), symbole de l’unicité et de la primauté ; il représente l’unité divine."
+    }
+  },
+  {
+    "index": 38,
+    "digit": 0,
+    "analysis": {
+      "Tradition pythagoricienne": "le 0 est parfois vu comme le potentiel pur, le vide créateur et l’infini ; il amplifie ou spiritualise le chiffre auquel il est associé.",
+      "Numérologie chaldéenne": "le 0 est souvent considéré comme un symbole d’infini ou de protection ; il représente la source et peut amplifier les vibrations voisines.",
+      "Numérologie kabbalistique (juive)": "le 0 peut évoquer l’Ain (le néant divin) ou l’infini (Ein Sof) ; il représente le potentiel non manifesté et la transcendance.",
+      "Numérologie chinoise": "le 0 peut représenter le vide, le cycle complet et le retour ; il est associé à l’idée de totalité et de circularité.",
+      "Numérologie hindoue": "le 0 peut symboliser Brahman, l’infini et le néant créateur ; il évoque la vacuité et la potentialité absolue.",
+      "Numérologie japonaise": "le 0 (零, rei) symbolise le vide et le point de départ ; il peut représenter un état neutre ou potentiel.",
+      "Numérologie islamique (soufie)": "le 0 peut symboliser la vacuité (fanāʾ) et le retour à l’unité divine ; il représente l’effacement de l’ego.",
+      "Numérologie biblique (chrétienne)": "le 0 n’est pas un nombre biblique traditionnel ; symboliquement, il peut représenter le néant avant la création ou l’infini divin.",
+      "Guématrie (juive)": "le 0 n’a pas de lettre dédiée ; symboliquement, il peut renvoyer à l’Ain (néant) et à l’infini divin.",
+      "Système abjad (islamique)": "le 0 n’est pas directement utilisé ; symboliquement, il peut représenter le cercle, l’infini et l’unité."
+    }
+  },
+  {
+    "index": 39,
+    "digit": 2,
+    "analysis": {
+      "Tradition pythagoricienne": "le 2 symbolise la dualité, la coopération, l’intuition et la sensibilité ; il est associé aux relations et à l’harmonie.",
+      "Numérologie chaldéenne": "gouverné par la Lune, le 2 représente l’émotion, l’intuition, la réceptivité et l’adaptabilité ; il favorise la diplomatie.",
+      "Numérologie kabbalistique (juive)": "lié à la séphira Chokhmah (Sagesse), le 2 symbolise l’étincelle de l’intuition et la polarité nécessaire à la création.",
+      "Numérologie chinoise": "le 2 est associé à la dualité yin-yang, à l’équilibre et aux paires ; il est souvent considéré comme chanceux (« les bonnes choses viennent par deux »).",
+      "Numérologie hindoue": "associé à la Lune, le 2 représente l’esprit, les émotions, l’intuition et le besoin de connexion ; il peut aussi indiquer la fluctuation.",
+      "Numérologie japonaise": "le 2 (二, ni) symbolise la dualité et la coopération ; il est généralement neutre ou favorable.",
+      "Numérologie islamique (soufie)": "le 2 symbolise la dualité de la création (ciel/terre, masculin/féminin) et la relation entre l’Un et le multiple ; il évoque la complémentarité.",
+      "Numérologie biblique (chrétienne)": "le 2 symbolise le témoignage et la confirmation (« par la bouche de deux témoins ») et peut représenter la dualité (ancien/nouveau).",
+      "Guématrie (juive)": "valeur de la lettre Bet (ב), le 2 symbolise la maison, l’intériorité et le commencement de la Torah (Bereshit) ; il représente un contenant.",
+      "Système abjad (islamique)": "le 2 correspond à la lettre ب (bāʾ), associée à la maison, à l’ouverture et à l’humilité ; elle symbolise le support et l’accueil."
+    }
+  },
+  {
+    "index": 40,
+    "digit": 1,
+    "analysis": {
+      "Tradition pythagoricienne": "Le 1 symbolise le commencement, l’unité, l’individualité et le leadership ; il représente l’initiative et l’affirmation de soi.",
+      "Numérologie chaldéenne": "Gouverné par le Soleil, le 1 incarne l’énergie, la volonté, l’indépendance et l’autorité ; il favorise la confiance et la créativité.",
+      "Numérologie kabbalistique (juive)": "Associé à la séphira Kether (Couronne), le 1 symbolise l’unité divine, la source de toute création et la conscience supérieure.",
+      "Numérologie chinoise": "Le 1 est associé à l’unité, à l’origine et à l’eau ; il représente le début et la potentialité.",
+      "Numérologie hindoue": "Associé au Soleil, le 1 représente l’ego, la force vitale, la conscience et le pouvoir créateur ; il symbolise l’unité avec le divin.",
+      "Numérologie japonaise": "Le 1 (一, ichi) symbolise l’origine et l’unité ; il représente le début de toute entreprise.",
+      "Numérologie islamique (soufie)": "Le 1, Tawhid, symbolise l’unicité d’Allah, la vérité et le principe de l’unité ; il représente l’essence divine.",
+      "Numérologie biblique (chrétienne)": "Le 1 correspond à l’unité et à la primauté de Dieu (« Un seul Seigneur », Deut. 6:4) et symbolise la médiation unique du Christ.",
+      "Guématrie (juive)": "Valeur numérique de la lettre Alef (א), le 1 évoque l’unité, Dieu et le commencement de la création.",
+      "Système abjad (islamique)": "Le 1, ou Al-Wahid (Alif), représente l’unicité d’Allah (Tawhid), signifiant la primauté divine, la foi et le rôle de guide."
+    }
+  }
+]
+```

@@ -56,3 +56,4 @@ subject = NatalChart(name="Greta", date="2003-01-03", location="Stockholm")
 el_instance = matrix.instantiate(subject)
 print(el_instance.react("Comment perçois-tu l'autorité ?"))
 # Output attendu : Réponse interpolée selon la position de Mars/Saturne sur l'axe 1-9
+```
